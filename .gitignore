@@ -4,3 +4,5 @@ voiceClassification/voices_dataset
 voiceClassification/saved_models
 Sound_Classification/saved_models
 DeepLearning/dataset
+SpeechRecognition/speech_commands_v0.01
+SpeechRecognition/dataset
